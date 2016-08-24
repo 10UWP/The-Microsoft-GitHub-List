@@ -22,3 +22,108 @@ Fast, easy, catagorized and opinionated access to Microsoft projects on GitHub
 
 
 ![Home of the .NET Foundation](https://github.com/dotnet) and http://www.dotnetfoundation.org/
+
+
+
+
+# Other Microsoft GitHub Organizations
+
+### Microsoft Azure
+
+### Office
+
+### FUSE Labs at Microsoft Research
+
+### Microsoft patterns & practices
+
+### Microsoft HPC Group
+
+### Yammer
+
+### WinJS
+
+### Microsoft Mobile
+
+### Cloud and Information Services Lab
+
+### Microsoft Research
+
+### Open Source Technology Center
+
+### Microsoft Live Connect
+
+### Microsoft Azure AD Samples
+
+### Microsoft Azure Federal
+
+### Microsoft Health Solutions Group
+
+### Azure Samples
+
+### Azure Readiness
+
+### Open Source from Microsoft
+
+### Internet of Things
+
+### OneDrive
+
+### Linux Integration Services for Microsoft Hyper-V
+
+### Microsoft Open Technologies
+
+### Reactive Extensions
+
+### Microsoft Genomics
+
+### Microsoft Edge
+
+### Azure Active Directory
+
+### Bit Stadium GmbH
+
+### Microsoft Dynamics CRM
+
+### ManifoldJS
+
+### MicrosoftDX
+
+### OneGet
+
+### PowerBI
+
+### PowerShell
+
+### Simple Cloud Manager Project
+
+### Thali Project
+
+### Z3 Theorem Prover
+
+### Microsoft OData stack
+
+
+# And More
+
+XBox is hiding in there somewhere...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
